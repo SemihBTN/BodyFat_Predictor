@@ -3,6 +3,7 @@ Vücut Analiz AI 📊
 Bu proje, kullanıcının fiziksel ölçümlerini (yaş, boyun, karın, pazı vb.) kullanarak vücut yağ oranını tahmin eden bir makine öğrenmesi uygulamasıdır.  
 
 🚀 Proje Hakkında
+
 Bu model, scikit-learn kullanılarak eğitilmiş bir regresyon modelidir. Kullanıcı dostu Streamlit arayüzü sayesinde, kendi verilerini girerek vücut yağ oranını saniyeler içinde öğrenebilirsin.  
 
 🛠 Kullanılan Teknolojiler
@@ -12,16 +13,21 @@ Scikit-Learn (Makine Öğrenmesi)
 Joblib (Model kaydetme/yükleme)  
 
 💻 Nasıl Çalışır?
+
 Uygulamayı bu linkten açın.İlgili alanlara (Yaş, Kilo, Boyun, Karın, Pazı vb.) kendi ölçümlerinizi girin.  "Tahmin Et" butonuna basın ve sonucunuzu görün! 
 
-💡İletişimProje ile ilgili soruların veya geri bildirimlerin için benimle iletişime geçebilirsin!Bu proje, veri bilimi ve makine öğrenmesi pratikleri kapsamında geliştirilmiştir. 
+💡İletişim
+
+Proje ile ilgili soruların veya geri bildirimlerin için benimle iletişime geçebilirsin!Bu proje, veri bilimi ve makine öğrenmesi pratikleri kapsamında geliştirilmiştir. 
 
 ----------------------------------------------------ENG-----------------------------------------------------------
 Body Fat Analysis AI 📊
 
 This project is a machine learning application that predicts body fat percentage based on a user's physical measurements (age, weight, neck, abdomen, biceps, etc.).  
 
-🚀 About the ProjectThis model is built using a regression model trained with scikit-learn. It features a user-friendly Streamlit interface that allows you to input your own metrics and get your body fat percentage predicted in seconds.  
+🚀 About the Project
+
+This model is built using a regression model trained with scikit-learn. It features a user-friendly Streamlit interface that allows you to input your own metrics and get your body fat percentage predicted in seconds.  
 
 🛠 Tech Stack
 Python  
@@ -29,6 +35,10 @@ Streamlit (UI/Interface)
 Scikit-Learn (Machine Learning)  
 Joblib (Model Serialization)  
 
-💻 How It WorksOpen the application via this link (paste your Streamlit link here).Enter your physical measurements (Age, Weight, Neck, Abdomen, Biceps, etc.) into the respective input fields.  Click the "Tahmin Et" (Predict) button to see your estimated body fat percentage.  
+💻 How It Works
 
-💡 ContactFeel free to reach out if you have any questions or feedback regarding the project!This project was developed for data science and machine learning practice.
+Open the application via this link (paste your Streamlit link here).Enter your physical measurements (Age, Weight, Neck, Abdomen, Biceps, etc.) into the respective input fields.  Click the "Tahmin Et" (Predict) button to see your estimated body fat percentage.  
+
+💡 Contact
+
+Feel free to reach out if you have any questions or feedback regarding the project!This project was developed for data science and machine learning practice.
