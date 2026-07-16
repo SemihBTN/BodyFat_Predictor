@@ -1,4 +1,5 @@
 Vücut Analiz AI 📊
+
 Bu proje, kullanıcının fiziksel ölçümlerini (yaş, boyun, karın, pazı vb.) kullanarak vücut yağ oranını tahmin eden bir makine öğrenmesi uygulamasıdır.  
 
 🚀 Proje Hakkında
@@ -17,6 +18,7 @@ Uygulamayı bu linkten açın.İlgili alanlara (Yaş, Kilo, Boyun, Karın, Pazı
 
 ----------------------------------------------------ENG-----------------------------------------------------------
 Body Fat Analysis AI 📊
+
 This project is a machine learning application that predicts body fat percentage based on a user's physical measurements (age, weight, neck, abdomen, biceps, etc.).  
 
 🚀 About the ProjectThis model is built using a regression model trained with scikit-learn. It features a user-friendly Streamlit interface that allows you to input your own metrics and get your body fat percentage predicted in seconds.  
