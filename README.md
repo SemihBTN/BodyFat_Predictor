@@ -7,6 +7,7 @@ Bu proje, kullanıcının fiziksel ölçümlerini (yaş, boyun, karın, pazı vb
 Bu model, scikit-learn kullanılarak eğitilmiş bir regresyon modelidir. Kullanıcı dostu Streamlit arayüzü sayesinde, kendi verilerini girerek vücut yağ oranını saniyeler içinde öğrenebilirsin.  
 
 🛠 Kullanılan Teknolojiler
+
 Python  
 Streamlit (Arayüz)  
 Scikit-Learn (Makine Öğrenmesi)  
@@ -30,6 +31,7 @@ This project is a machine learning application that predicts body fat percentage
 This model is built using a regression model trained with scikit-learn. It features a user-friendly Streamlit interface that allows you to input your own metrics and get your body fat percentage predicted in seconds.  
 
 🛠 Tech Stack
+
 Python  
 Streamlit (UI/Interface)  
 Scikit-Learn (Machine Learning)  
